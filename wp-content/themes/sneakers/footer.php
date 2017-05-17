@@ -6,7 +6,9 @@
  *
  */
 ?>
-
+<footer>
+	<p>Sneakers Project</p>
+</footer>
 	<!-- Add jQuery library -->
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<?php wp_footer(); ?>
